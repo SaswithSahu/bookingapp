@@ -1,0 +1,34 @@
+.list-Item{
+    width:97%;
+    height: 80px;
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    display:flex;
+    justify-content: space-between;
+    padding: 5px 20px 5px 20px;
+    align-items: center;
+    box-shadow: 4px 4px #bfbfbf;
+    border-radius: 4px;
+}
+.airline{
+    font-weight: bolder;
+    font-size: 18px;
+    color: rebeccapurple;
+    font-family: "Bradley Hand ITC";
+}
+.flightnumber{
+    font-weight: 600;
+    font-size: 14;
+    color: black;
+    font-family: "Roboto";
+}
+.from-to-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.arrow-icon{
+    margin: 0px 10px 0px 10px;
+}
